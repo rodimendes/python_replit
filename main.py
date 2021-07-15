@@ -12,6 +12,5 @@ num_jogadores = int(input("Quantos jogadores participarão? "))
 
 jogadores = nomes(num_jogadores)
 
-for nomes
 
 # uma palavra por rodada por participante
